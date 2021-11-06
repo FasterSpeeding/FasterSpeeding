@@ -18,6 +18,7 @@
 <h1 align="left" style="font-family: Helvetica">And Now for Something Completely Different</h1>
 
 <!-- Source: https://www.mit.edu/afs.new/sipb/user/ayshames/Python/LORETTA.PYTHON -->
+<!-- Alt Source: https://www.intriguing.com/mp/_scripts/lifebrin.php -->
 <pre style="word-wrap: break-word; white-space: pre-wrap;">
 Judith:  Any Anti-Imperialist group like ours must *reflect* such a
          divergence of interests within its power-base.
@@ -26,7 +27,7 @@ Reg:     Agreed.
          Francis?
 Francis: I think Judith's point of view is valid here, Reg, provided the
          Movement never forgets that it is the inalienable right of every
-         man--
+         man ...
 Stan:    Or woman.
 Francis: Or woman ... to rid himself ...
 Stan:    Or herself.
