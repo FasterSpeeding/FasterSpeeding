@@ -17,6 +17,7 @@
 
 <h1 align="left" style="font-family: Helvetica">And Now for Something Completely Different</h1>
 
+<!-- Source: https://www.mit.edu/afs.new/sipb/user/ayshames/Python/LORETTA.PYTHON -->
 <pre style="word-wrap: break-word; white-space: pre-wrap;">
 Judith:  Any Anti-Imperialist group like ours must *reflect* such a
          divergence of interests within its power-base.
@@ -40,9 +41,9 @@ Reg:     Why don't you shut up about women, Stan, you're putting us off.
 Stan:    Women have a perfect right to play a part in our movement, Reg.
 Francis: Why are you always on about women, Stan?
 Stan:    (pause) I want to be one.
- 
-(pregnant pause)
- 
+
+(pause)
+
 Reg:    What?
 Stan:   I want to be a woman.  From now on I want you all to call me Loretta.
 Reg:    What!?
@@ -61,7 +62,7 @@ Judith:  Here!  I've got an idea.  Suppose you agree that he can't actually
          Romans', but that he can have the *right* to have babies.
 Francis: Good idea, Judith.  We shall fight the oppressors for your right to
          have babies, brother.  Sister, sorry.
-Reg:     (pissed)  What's the *point*?
+Reg:     What's the *point*?
 Francis:  What?
 Reg:      What's the point of fighting for his right to have babies, when he
           can't have babies?
