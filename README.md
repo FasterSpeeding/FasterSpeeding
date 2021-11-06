@@ -28,7 +28,7 @@ Francis: I think Judith's point of view is valid here, Reg, provided the
          Movement never forgets that it is the inalienable right of every
          man--
 Stan:    Or woman.
-Francis: Or woman...to rid himself--
+Francis: Or woman... to rid himself ...
 Stan:    Or herself.
 Reg:     Or herself.  Agreed.  Thank you, brother.
 Stan:    Or sister.
