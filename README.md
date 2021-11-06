@@ -45,18 +45,18 @@ Stan:    (pause) I want to be one.
 
 (pause)
 
-Reg:    What?
-Stan:   I want to be a woman.  From now on I want you all to call me Loretta.
-Reg:    What!?
-Stan:   It's my right as a man.
-Judith: Why do you want to be Loretta, Stan?
-Stan:   I want to have babies.
-Reg:    You want to have babies?!?!?!
-Stan:   It's every man's right to have babies if he wants them.
-Reg:    But you can't have babies.
-Stan:   Don't you oppress me.
-Reg:    I'm not oppressing you, Stan -- you haven't got a womb.  Where's the
-        fetus going to gestate?  You going to keep it in a box?
+Reg:     What?
+Stan:    I want to be a woman.  From now on I want you all to call me Loretta.
+Reg:     What!?
+Stan:    It's my right as a man.
+Judith:  Why do you want to be Loretta, Stan?
+Stan:    I want to have babies.
+Reg:     You want to have babies?!?!?!
+Stan:    It's every man's right to have babies if he wants them.
+Reg:     But you can't have babies.
+Stan:    Don't you oppress me.
+Reg:     I'm not oppressing you, Stan -- you haven't got a womb.  Where's the
+         fetus going to gestate?  You going to keep it in a box?
 (Stan starts crying.)
 Judith:  Here!  I've got an idea.  Suppose you agree that he can't actually
          have babies, not having a womb, which is nobody's fault, not even the
@@ -64,9 +64,9 @@ Judith:  Here!  I've got an idea.  Suppose you agree that he can't actually
 Francis: Good idea, Judith.  We shall fight the oppressors for your right to
          have babies, brother.  Sister, sorry.
 Reg:     What's the *point*?
-Francis:  What?
-Reg:      What's the point of fighting for his right to have babies, when he
-          can't have babies?
-Francis:  It is symbolic of our struggle against oppression.
-Reg:      It's symbolic of his struggle against reality.
+Francis: What?
+Reg:     What's the point of fighting for his right to have babies, when he
+         can't have babies?
+Francis: It is symbolic of our struggle against oppression.
+Reg:     It's symbolic of his struggle against reality.
 </pre>
